@@ -1,5 +1,5 @@
 # 3D-Time-Portal-App
-<h1>Link to project report - https://www.canva.com/design/DAF199DtPZo/iz_YBDzT_w4-Rgbz0ExlRw/edit?utm_content=DAF199DtPZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</h1>
+Link to project report - https://www.canva.com/design/DAF199DtPZo/iz_YBDzT_w4-Rgbz0ExlRw/edit?utm_content=DAF199DtPZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <h1>Overview</h1>
 This project is a cutting-edge application that combines history, technology, and entertainment to deliver an interactive and immersive learning experience. By utilizing Augmented Reality (AR), music, location-based exploration, and an intuitive interface, users can travel through time and space to explore iconic landmarks and significant historical events. Our goal is to transform how users learn about history, offering them a platform that blends education with personalized engagement.
 
